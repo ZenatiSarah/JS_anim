@@ -1,3 +1,4 @@
 # anim-site
 
-Personal project in progress - Home page which allows me to discover animations with javascript.
+Personal project in progress - This is a home page for practicing animations in Javascript.
+
